@@ -1,0 +1,13 @@
+{
+  "name": "proj-noise-simple",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.11.0",
+    "@vue/cli-plugin-eslint": "^3.11.0",
+    "@vue/cli-service": "^3.11.0"
+  },
+  "dependencies": {
+    "three": "^0.109.0"
+  }
+}
